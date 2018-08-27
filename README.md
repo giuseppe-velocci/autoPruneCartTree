@@ -1,5 +1,6 @@
 # autoPruneCartTree
 A function for R that can generate and prune a cart Tree automatically. Can be useful if many tests must be performed in a loop.
+This function outputs messages to the console using print(). Remove those lines if no outuput is required.
 
 ## @from        = formula
 ## @dat         = data
